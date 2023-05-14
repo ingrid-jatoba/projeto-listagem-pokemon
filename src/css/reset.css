@@ -1,0 +1,9 @@
+*{
+    margin: 0; /*é algo externo: separar duas caixas lado a lado*/
+    padding: 0; /*é algo interno: separar dois sapatos DENTRO de uma caixa/separar os sapatos da caixa*/
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
